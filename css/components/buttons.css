@@ -1,0 +1,29 @@
+.btn {
+  padding: 10px 30px;
+  text-decoration: none;
+}
+
+.btn-red {
+  background: linear-gradient(250deg ,#ed2563, #fd7042);
+  border-radius: 50px;
+  color: white;
+}
+
+
+.btn-red i {
+  margin-right: 5px;
+}
+
+.btn-grey {
+  background-color: transparent;
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background-color: #205C92;
+  transition: background 0.3s ease;
+}
+
+.btn-grey:hover {
+  background: #2877AC;
+  color: white;
+}
